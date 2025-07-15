@@ -1,2 +1,5 @@
 Transformers/
 Transformers/*
+Decoder/model_checkpoint.pt
+Decoder/*.pt
+
